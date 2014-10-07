@@ -10,5 +10,9 @@ namespace Magm.Productos.BE
     {
         public int intCodAlu { get; set; }
         public string strNombreAlu { get; set; }
+        public string strApellidoAlu { get; set; }
+        public string strDireccionAlu { get; set; }
+        public string strDNIAlu { get; set; }
+        public string strTelefono { get; set; }
     }
 }

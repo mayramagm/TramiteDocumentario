@@ -25,3 +25,12 @@ L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debu
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.csprojResolveAssemblyReference.cache
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.dll
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.BusinessLogic.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.BusinessLogic.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.BE.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.DataAccess.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.BE.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\bin\Debug\Magm.Productos.DataAccess.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BusinessLogic\obj\Debug\Magm.Productos.BusinessLogic.pdb

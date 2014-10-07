@@ -19,3 +19,10 @@ L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.DataAccess\bin\Debug\M
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.csprojResolveAssemblyReference.cache
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.dll
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\bin\Debug\Magm.Productos.DataAccess.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\bin\Debug\Magm.Productos.DataAccess.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\bin\Debug\Magm.Productos.BE.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\bin\Debug\Magm.Productos.BE.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.DataAccess\obj\Debug\Magm.Productos.DataAccess.pdb

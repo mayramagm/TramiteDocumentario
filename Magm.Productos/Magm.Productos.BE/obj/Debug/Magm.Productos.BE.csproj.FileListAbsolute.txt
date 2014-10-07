@@ -13,3 +13,8 @@ L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BE\bin\Debug\Magm.Prod
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.csprojResolveAssemblyReference.cache
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.dll
 L:\Tarea_Final_Mayra_Gamion\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BE\bin\Debug\Magm.Productos.BE.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BE\bin\Debug\Magm.Productos.BE.pdb
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.csprojResolveAssemblyReference.cache
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.dll
+C:\Users\mgamion\Documents\GitHub\TramiteDocumentario\Magm.Productos\Magm.Productos.BE\obj\Debug\Magm.Productos.BE.pdb
