@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magm.Productos.BE", "Magm.Productos.BE\Magm.Productos.BE.csproj", "{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. BusinessEntity", "1. BusinessEntity", "{FC01A9C3-4965-4A9E-AD46-D1149F338012}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. AccesoDatos", "2. AccesoDatos", "{F81FAAFB-452C-48AA-988E-01163A14341F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. LogicaNegocios", "3. LogicaNegocios", "{1C168F67-53A3-41D7-B6E3-89421EBB6C82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Cliente", "4. Cliente", "{143605FA-93EC-42DB-96DF-33B8D65F72BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magm.Productos.DataAccess", "Magm.Productos.DataAccess\Magm.Productos.DataAccess.csproj", "{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magm.Productos.BusinessLogic", "Magm.Productos.BusinessLogic\Magm.Productos.BusinessLogic.csproj", "{E1A75D0A-77DC-4A23-8E58-339BA279CA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magm.Productos.MVC", "Magm.Productos.MVC\Magm.Productos.MVC.csproj", "{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A75D0A-77DC-4A23-8E58-339BA279CA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A75D0A-77DC-4A23-8E58-339BA279CA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A75D0A-77DC-4A23-8E58-339BA279CA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A75D0A-77DC-4A23-8E58-339BA279CA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F1CE8FA-B42C-448B-80CF-ADB558E75CF3} = {FC01A9C3-4965-4A9E-AD46-D1149F338012}
+		{0C399CB6-54A2-4E2C-9B55-9953DD22DA5A} = {F81FAAFB-452C-48AA-988E-01163A14341F}
+		{E1A75D0A-77DC-4A23-8E58-339BA279CA72} = {1C168F67-53A3-41D7-B6E3-89421EBB6C82}
+		{F0638D0E-68EB-4A9B-A73D-5EF0ED1C966A} = {143605FA-93EC-42DB-96DF-33B8D65F72BF}
+	EndGlobalSection
+EndGlobal

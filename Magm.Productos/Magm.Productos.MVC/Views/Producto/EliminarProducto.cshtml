@@ -1,0 +1,54 @@
+﻿@model Magm.Productos.BE.Producto
+
+@{
+    ViewBag.Title = "EliminarProducto";
+}
+
+<h2>EliminarProducto</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Producto</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.codigo)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.codigo)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.nombre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nombre)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.stock)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.stock)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.marca)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.marca)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.precio)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.precio)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "ListarProducto")
+    </p>
+}
